@@ -48,7 +48,6 @@ class MoviesAdmin(admin.ModelAdmin):
 
 
 ## OUTPUT
-c:\Users\Akash P\OneDrive\Pictures\Screenshots\Screenshot 2025-04-17 153553.png
-
+akash/Screenshot 2025-04-17 153553.png
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
