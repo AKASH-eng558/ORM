@@ -44,10 +44,10 @@ class Movies(models.Model):
     Phone_Number=models.CharField(max_length=10, help_text="Phone number")
 class MoviesAdmin(admin.ModelAdmin):
     list_display = ('person_id', 'name', 'person_email', 'seats', 'Movie_Name','Show_Date','Phone_Number')
-    ```
+```
 
 
 ## OUTPUT
-akash/Screenshot 2025-04-17 153553.png
+![alt text](<Screenshot 2025-04-17 153553.png>)
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
