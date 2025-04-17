@@ -48,7 +48,7 @@ class MoviesAdmin(admin.ModelAdmin):
 
 
 ## OUTPUT
-https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/Akash%20P/ORM/Screenshot%202025-04-17%20153553.png?version%3D1744884746095
+c:\Users\Akash P\OneDrive\Pictures\Screenshots\Screenshot 2025-04-17 153553.png
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
